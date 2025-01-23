@@ -1,8 +1,10 @@
 # Hola, me llamo David 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Desarrollador+web)](https://git.io/typing-svg)
+
 <img src="banner_gif.gif">
 
-<p>Soy un apasionado de dos mundos aparentemente distintos pero profundamente conectados: la gastronomía y el desarrollo web. Como jefe de cocina, he aprendido la importancia de la creatividad, el trabajo en equipo y la atención a los detalles, cualidades que he trasladado al mundo de la programación y el diseño web.
+Soy un apasionado de dos mundos aparentemente distintos pero profundamente conectados: la gastronomía y el desarrollo web. Como jefe de cocina, he aprendido la importancia de la creatividad, el trabajo en equipo y la atención a los detalles, cualidades que he trasladado al mundo de la programación y el diseño web.
 
 En mi trayectoria como desarrollador web freelance, he trabajado en proyectos que abarcan desde la creación de páginas web dinámicas hasta soluciones personalizadas para clientes. Mi curiosidad constante y mi deseo de aprender me han llevado a una formación continua en tecnologías y herramientas del desarrollo.
 
@@ -25,3 +27,9 @@ Si compartes mi entusiasmo por el desarrollo o tienes un proyecto en mente, ¡no
 ## Conecta conmigo
 
 <p align="left"> <a href="https://discord.com/users/davidgarcia-glitch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/davidgarcia-glitch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/davidgarcia-glitch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+## 🐍 Commits en movimiento
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
